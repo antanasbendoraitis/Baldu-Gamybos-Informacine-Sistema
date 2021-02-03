@@ -9,3 +9,4 @@ namespace Baldu_gamybos_Informacine_sistema.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+//tt
