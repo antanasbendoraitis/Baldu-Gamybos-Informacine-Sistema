@@ -1,1 +1,1 @@
-# Baldu gamybos Informacine sistema
+# Baldu-gamybos-Informacine-sistema
